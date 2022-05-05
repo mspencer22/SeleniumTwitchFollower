@@ -1,4 +1,4 @@
-# SeleniumTwitchFollower
+# Selenium Twitch Follower
 An app that uses selenium to copy follows from one twitch.tv account to another
 
 This app uses Maven to manage it's dependencies, which are:
